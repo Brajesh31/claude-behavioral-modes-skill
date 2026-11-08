@@ -184,7 +184,7 @@ Run `npm run dev` to test."
 
 ### ✅ Performance
 - [ ] Bundle size acceptable
-- - [ ] No console.logs
+- [ ] No console.logs
 
 ### 🚀 Ready to deploy
 ```
